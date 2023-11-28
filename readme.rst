@@ -10,10 +10,10 @@ TEST IT INTERNSHIP PROGRAM
 Demo : https://test.mehelmi.my.id/
 ***********************************************************************
 
-HR LOGIN (Create, Read, Update, Delete) <br>
-username = admin <br>
-password = 123 <br>
-<br>
-USER LOGIN (Read Only) <br>
-username = user1 <br>
+HR LOGIN (Create, Read, Update, Delete)
+username = admin 
+password = 123 
+
+USER LOGIN (Read Only)</br>
+username = user1
 password = 1234

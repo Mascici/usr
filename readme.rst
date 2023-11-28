@@ -1,7 +1,5 @@
 Aplikasi Multi user
 
 ***********************************************************************
-Ilmu yang bermanfaat adalah ilmu yang berguna untuk banyak orang
+TEST IT INTERNSHIP PROGRAM
 ***********************************************************************
-
-Semoga Bermaanfaat ya!!!
